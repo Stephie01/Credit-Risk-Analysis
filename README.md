@@ -1,4 +1,4 @@
-# Credit Risk
+# Credit Risk Analysis
 ## Project Overview
 
 The purpose of this project is to develop a machine learning model for credit risk assessment, enabling accurate and efficient classification of individuals as good or bad credit risks. This model aims to enhance the credit evaluation process used by financial institutions, providing a more reliable and data-driven approach to lending decisions.
